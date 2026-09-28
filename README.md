@@ -40,7 +40,7 @@ const florin = {
     tools: ["VS Code", "Cline", "DeepSeek", "Git", "GitHub"],
     focus: "Aplicații web simple pentru afaceri mici",
     philosophy: "Livrează rapid, învață continuu, ajută pe cineva în fiecare zi"
-};
+};```
 
 ---
 
