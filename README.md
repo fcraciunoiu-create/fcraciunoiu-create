@@ -163,7 +163,7 @@ Landing page pentru romanul fantasy al Catrinelei von Caitanovici.
   <a href="mailto:fcraciunoiu@gmail.com">
     <img src="https://img.shields.io/badge/Email-fcraciunoiu@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://wa.me/40700000000">
+  <a href="https://wa.me/00447487758269">
     <img src="https://img.shields.io/badge/WhatsApp-Message_me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
