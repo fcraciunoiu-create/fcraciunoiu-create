@@ -157,11 +157,18 @@ Landing page for the fantasy novel by Catrinel von Caitanovici.
 
 <div align="center">
 
-### 🏆 GitHub Trophies
+### 🎯 Profile Summary
 
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=fcraciunoiu-create&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fcraciunoiu-create&theme=tokyonight" />
+</p>
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fcraciunoiu-create&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fcraciunoiu-create&theme=tokyonight" height="180" />
+</p>
+
 </div>
-
 ---
 
 <div align="center">
