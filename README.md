@@ -140,12 +140,7 @@ Landing page for the fantasy novel by Catrinel von Caitanovici.
 
 <div align="center">
 
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=fcraciunoiu-create&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcraciunoiu-create&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" />
-</p>
+### 🔥 GitHub Streak
 
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fcraciunoiu-create&theme=tokyonight&hide_border=true" height="180" />
@@ -169,6 +164,21 @@ Landing page for the fantasy novel by Catrinel von Caitanovici.
 </p>
 
 </div>
+
+---
+
+<div align="center">
+
+### 🏅 Achievements
+
+<p>
+  <img src="https://img.shields.io/badge/First_Repo-2026-8b5cf6?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/7_Day_Streak-2026-ff6b35?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/6_Live_Projects-2026-34c759?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+</div>
+
 ---
 
 <div align="center">
@@ -179,7 +189,7 @@ Landing page for the fantasy novel by Catrinel von Caitanovici.
   <a href="mailto:fcraciunoiu@gmail.com">
     <img src="https://img.shields.io/badge/Email-fcraciunoiu@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://wa.me/447487758269">
+  <a href="https://wa.me/447487752869">
     <img src="https://img.shields.io/badge/WhatsApp-Message_me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
