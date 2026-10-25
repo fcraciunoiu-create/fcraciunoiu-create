@@ -74,11 +74,11 @@ Interactive web application for solar energy calculations and custom panel confi
 <tr>
 <td width="50%">
 
-### 🌱 [Habit Tracker](https://fcraciunoiu-create.github.io/Portofoliu/habittracker.html)
+### 📖 [Mindy & Nix](https://fcraciunoiu-create.github.io/mindy-nix/)
 
-Daily habit tracker with streak counters and weekly progress dots.
+Landing page for the fantasy novel by Catrinel von Caitanovici.
 
-`HTML` `CSS` `JavaScript` `localStorage`
+`HTML` `CSS` `JavaScript` `SEO`
 
 </td>
 <td width="50%">
@@ -103,11 +103,11 @@ Multi-format QR code generator (URL, text, WiFi, email) with instant download.
 </td>
 <td width="50%">
 
-### 📖 [Mindy & Nix](https://fcraciunoiu-create.github.io/mindy-nix/)
+### 🌱 [Habit Tracker](https://fcraciunoiu-create.github.io/Portofoliu/habittracker.html)
 
-Landing page for the fantasy novel by Catrinel von Caitanovici.
+Daily habit tracker with streak counters and weekly progress dots.
 
-`HTML` `CSS` `JavaScript` `SEO`
+`HTML` `CSS` `JavaScript` `localStorage`
 
 </td>
 </tr>
