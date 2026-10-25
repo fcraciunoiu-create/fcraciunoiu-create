@@ -54,21 +54,20 @@ const florin = {
 <table>
 <tr>
 <td width="50%">
+### ⚡ [VoltFresh](https://fcraciunoiu-create.github.io/Voltfresh/)
 
-### 🧠 [Mood Booster](https://fcraciunoiu-create.github.io/Portofoliu/moodbooster.html)
+Pit stop landing page for a bio orchard and EV charging station on DN56. Features local SEO schema, a dynamic cafe menu, and responsive design.
 
-Mood tracker with statistics, weekly chart, confetti animations, image sharing and bell hooks quotes.
-
-`HTML` `CSS` `JavaScript` `localStorage`
+`HTML` `Tailwind` `JavaScript` `SEO`
 
 </td>
 <td width="50%">
+  
+### ☀️ [SolarCraft](PUNE_AICI_LINKUL)
 
-### ✅ [TaskFlow](https://fcraciunoiu-create.github.io/Portofoliu/TaskFlow.html)
+Interactive web application for solar energy calculations and custom panel configuration.
 
-Modern task manager with priorities, filters, deadlines and clean UI.
-
-`HTML` `CSS` `JavaScript` `localStorage`
+`HTML` `CSS` `JavaScript`
 
 </td>
 </tr>
