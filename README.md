@@ -63,7 +63,7 @@ Pit stop landing page for a bio orchard and EV charging station on DN56. Feature
 </td>
 <td width="50%">
   
-### ☀️ [SolarCraft](PUNE_AICI_LINKUL)
+### ☀️ [SolarCraft]https://fcraciunoiu-create.github.io/solarcraft/
 
 Interactive web application for solar energy calculations and custom panel configuration.
 
